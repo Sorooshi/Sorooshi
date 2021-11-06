@@ -2,7 +2,7 @@
 
 
 ## About Me:
-  - 🌱 I’m a Machine Learning Researcher at [LAMBDA Lab](https://cs.hse.ru/en/lambda/), [HSE University](https://www.hse.ru/en/) Moscow, Russia. 
+  - 🌱 I’m a Machine Learning Researcher at [LAMBDA Lab](https://cs.hse.ru/en/lambda/), [HSE University](https://www.hse.ru/en/), Moscow, Russia. 
 
 
 - 📫 You can reach me using: sr.shalileh@gmail.com 
