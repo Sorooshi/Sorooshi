@@ -19,7 +19,7 @@ https://link.springer.com/article/10.1007/s00357-022-09416-w
 - Shalileh, S., Mirkin, B. Summable and nonsummable data-driven models for community detection in feature-rich networks. Soc. Netw. Anal. Min. 11, 67 (2021). https://doi.org/10.1007/s13278-021-00774-8
 
 
-For more check my [Google Scholar](), [ORCID](https://orcid.org/0000-0001-6226-4990) and [Scopus](https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=57202057084&origin=inward).
+For more check my [Google Scholar](https://scholar.google.com/citations?user=3Fe4hWAAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-6226-4990) and [Scopus](https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=57202057084&origin=inward).
 
 
 
