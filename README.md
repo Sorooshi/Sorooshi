@@ -2,7 +2,7 @@
 
 
 ## About Me:
-  - 🌱 I’m a Machine Learning Researcher at [CLB](https://www.hse.ru/en/neuroling/), [HSE University](https://www.hse.ru/en/), Moscow, Russia. 
+  - 🌱 I’m a Artificial Intelligence Researcher at [CLB](https://www.hse.ru/en/neuroling/), [HSE University](https://www.hse.ru/en/), Moscow, Russia. 
 
 
 - 📫 You can reach me using: sr.shalileh@gmail.com 
