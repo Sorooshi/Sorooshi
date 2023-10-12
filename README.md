@@ -9,6 +9,8 @@
 
 ## Recent and Selected Publications
 
+- Shalileh, S., 2023. An Effective Partitional Crisp Clustering Method Using Gradient Descent Approach. Mathematics, 11(12), p.2617.
+
 - Mirkin, B. and Shalileh, S., 2022. Community Detection in Feature-Rich Networks Using Data Recovery Approach. Journal of Classification, pp.1-31.
 https://link.springer.com/article/10.1007/s00357-022-09416-w
 
