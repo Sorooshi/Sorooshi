@@ -2,7 +2,7 @@
 
 
 ## About Me:
-  - 🌱 I’m the head of [VML](https://www.hse.ru/en/neuroling/vml/) and an Artificial Intelligence Researcher at [CLB](https://www.hse.ru/en/neuroling/), [HSE University](https://www.hse.ru/en/), Moscow, Russia. 
+  - 🌱 I’m the head of [Vision Modeling laboratory](https://www.hse.ru/en/neuroling/vml/) and artificial intelligence Researcher at [Center for Language and Brain](https://www.hse.ru/en/neuroling/), [HSE University](https://www.hse.ru/en/), Moscow, Russia. 
 
 
 - 📫 You can reach me using: sr.shalileh@gmail.com 
