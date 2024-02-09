@@ -9,6 +9,8 @@
 
 ## Recent and Selected Publications
 
+- Shalileh, S., Ignatov, D., Lopukhina, A. and Dragoy, O., 2023. Identifying dyslexia in school pupils from eye movement and demographic data using artificial intelligence. Plos one, 18(11), p.e0292047. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292047
+
 - Shalileh, S., 2023. An Effective Partitional Crisp Clustering Method Using Gradient Descent Approach. Mathematics, 11(12), p.2617. https://doi.org/10.3390/math11122617
 
 - Mirkin, B. and Shalileh, S., 2022. Community Detection in Feature-Rich Networks Using Data Recovery Approach. Journal of Classification, pp.1-31.
