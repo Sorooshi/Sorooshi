@@ -2,10 +2,12 @@
 
 
 ## About Me:
-  - 🌱 I’m the head of [Laboratory of Artificial Intelligence for Cognitive Sciences](https://www.hse.ru/en/neuroling/vml/) and Artificial Intelligence Researcher at [Center for Language and Brain](https://www.hse.ru/en/neuroling/), [HSE University](https://www.hse.ru/en/), Moscow, Russia. 
+  - 🌱 I an AI and Computational Mathematic Researcher, and executive director of SberIndex, SberBank of Moscow, Russia. Previously, 
+I was the head of [Laboratory of Artificial Intelligence for Cognitive Sciences](https://www.hse.ru/en/neuroling/vml/) and Artificial Intelligence Researcher at [Center for Language and Brain](https://www.hse.ru/en/neuroling/), [HSE University](https://www.hse.ru/en/), Moscow, Russia. 
 
 
-- 📫 You can reach me using: sr.shalileh@gmail.com 
+
+-  📫 You can reach me using: sr.shalileh@gmail.com 
 
 ## Recent and Selected Publications
 
