@@ -11,6 +11,7 @@ I was the head of [Laboratory of Artificial Intelligence for Cognitive Sciences]
 
 ## Recent and Selected Publications
 - Shalileh S. A filtered gradient descent clustering method to recover communities in attributed networks. IEEE Access. 2025 Sep 26.
+https://ieeexplore.ieee.org/ielx8/6287639/10820123/11180948.pdf?tp=&arnumber=11180948&isnumber=10820123&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v
 
 - Shalileh S. Gradient Descent Clustering with Regularization to Recover Communities in Transformed Attributed Networks. InInternational Conference on Advances in Social Networks Analysis and Mining 2024 Sep 2 (pp. 137-148). Cham: Springer Nature Switzerland.
 
