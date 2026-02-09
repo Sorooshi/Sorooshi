@@ -2,7 +2,7 @@
 
 
 ## About Me:
-  - 🌱 I an AI and Computational Mathematic Researcher, Executive Director of SberIndex, SberBank of Moscow, Russia, and [Associate Professo](https://www.hse.ru/en/staff/srshalileh) of Computer Science at HSE University.
+  - 🌱 I an AI and Computational Mathematic Researcher, Executive Director of SberIndex, SberBank of Moscow, Russia, and [Associate Professor](https://www.hse.ru/en/staff/srshalileh) of Computer Science at HSE University.
   - Previously, I was the head of [Laboratory of Artificial Intelligence for Cognitive Sciences](https://www.hse.ru/en/neuroling/vml/) and Artificial Intelligence Researcher at [Center for Language and Brain](https://www.hse.ru/en/neuroling/), [HSE University](https://www.hse.ru/en/), Moscow, Russia. 
 
 
