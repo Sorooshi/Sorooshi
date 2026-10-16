@@ -1,19 +1,17 @@
-# 👋 Hi, I’m Soroosh Shalileh 
-
+# Hi, I’m Soroosh Shalileh 
 
 ## About Me:
   - 🌱 I am an AI and Computational Mathematic Researcher, Executive Director of SberIndex, SberBank of Moscow, Russia, and [Associate Professor](https://www.hse.ru/en/staff/srshalileh) of Computer Science at HSE University.
   - Previously, I was the head of [Laboratory of Artificial Intelligence for Cognitive Sciences](https://www.hse.ru/en/neuroling/vml/) and Artificial Intelligence Researcher at [Center for Language and Brain](https://www.hse.ru/en/neuroling/), [HSE University](https://www.hse.ru/en/), Moscow, Russia. 
 
-
-
 -  📫 You can reach me using: sr.shalileh@gmail.com 
 
 ## Recent and Selected Publications
+- Shalileh S, Antonov E, Tsyplakova D. Internal Cluster Validity Indices for Attributed Networks: A Controlled Comparative Study. Expert Systems with Applications. 2026 Aug 8:133912.
+https://www.sciencedirect.com/science/article/abs/pii/S0957417426028204
+
 - Shalileh S. A filtered gradient descent clustering method to recover communities in attributed networks. IEEE Access. 2025 Sep 26.
 https://ieeexplore.ieee.org/ielx8/6287639/10820123/11180948.pdf?tp=&arnumber=11180948&isnumber=10820123&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v
-
-- Shalileh S. Gradient Descent Clustering with Regularization to Recover Communities in Transformed Attributed Networks. InInternational Conference on Advances in Social Networks Analysis and Mining 2024 Sep 2 (pp. 137-148). Cham: Springer Nature Switzerland.
 
 - Shalileh S, Kairov M, Baminiwatte R, Parshina O, Dragoy O. Predicting First-Language and Second-Language Proficiency Using Eye Fixation Data and Demographic Information: Assumptions, Data Representations and Methods. IEEE Access. 2024 Sep 26.
 
@@ -25,10 +23,6 @@ https://ieeexplore.ieee.org/ielx8/6287639/10820123/11180948.pdf?tp=&arnumber=111
 https://link.springer.com/article/10.1007/s00357-022-09416-w
 
 - Shalileh, S. and Mirkin, B., 2022. Community Partitioning over Feature-Rich Networks Using an Extended K-Means Method. Entropy, 24(5), p.626. https://www.mdpi.com/1099-4300/24/5/626
-
-- Shalileh, S. and Mirkin, B., 2021. Least-squares community extraction in feature-rich networks using similarity data. Plos one, 16(7), p.e0254377. https://doi.org/10.1371/journal.pone.0254377
-
-- Shalileh, S., Mirkin, B. Summable and nonsummable data-driven models for community detection in feature-rich networks. Soc. Netw. Anal. Min. 11, 67 (2021). https://doi.org/10.1007/s13278-021-00774-8
 
 
 For more check my [Google Scholar](https://scholar.google.com/citations?user=3Fe4hWAAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-6226-4990) and [Scopus](https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=57202057084&origin=inward).
